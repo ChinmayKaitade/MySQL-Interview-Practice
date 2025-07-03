@@ -5,6 +5,26 @@
 > Welcome to the **MySQL Practice Repo**! 🚀  
 > This repository is perfect for practicing SQL queries including **CRUD operations**, **Joins**, **Functions**, **Constraints**, and **Interview Questions** preparation.
 
+---
+
+### ✅ **What's Inside?**
+
+- 🔹 100 Most Asked SQL/MySQL Interview Questions
+- 🔹 Real-world Use Cases & Scenario-Based Queries
+- 🔹 Performance Tips & Optimization Techniques
+- 🔹 Window Functions, Joins, Indexing, JSON & More
+
+---
+
+### 📂 **How to Use**
+
+- Clone the repo
+- Read through the markdown or PDF format
+- Practice each question with a database like **MySQL Workbench**, **phpMyAdmin**, or **DB Fiddle**
+- Revise before your interview or assessment
+
+---
+
 ## ✅ Types of SQL Commands:
 
 👉 DDL (Data Definition Language): create, alter, rename, truncate & drop
