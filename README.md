@@ -2,14 +2,18 @@
 
 # MySQL Practice Series 🔥🚀❤️‍🔥
 
-## ✅ Types of SQL Commands
+> Welcome to the **MySQL Practice Repo**! 🚀  
+> This repository is perfect for practicing SQL queries including **CRUD operations**, **Joins**, **Functions**, **Constraints**, and **Interview Questions** preparation.
 
-### 👉 DDL (Data Definition Language): create, alter, rename, truncate & drop
+**✅ Types of SQL Commands**
 
-### 👉 DQL (Data Query Language): select
+👉 DDL (Data Definition Language): create, alter, rename, truncate & drop
 
-### 👉 DML (Data Manipulation Language): insert, update & delete
+👉 DQL (Data Query Language): select
 
-### 👉 DCL (Data Control Language): grant & revoke permission to users
+👉 DML (Data Manipulation Language): insert, update & delete
 
-### 👉 TCL (Transaction Control Language): start transaction, commit, rollback
+👉 DCL (Data Control Language): grant & revoke permission to users
+
+👉 TCL (Transaction Control Language): start transaction, commit, rollback
+
