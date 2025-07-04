@@ -71,7 +71,7 @@ UNION
 SELECT *
 FROM student as s
 RIGHT JOIN course as c
-ON s.id 
+ON s.id = c.id;
 
 
 
