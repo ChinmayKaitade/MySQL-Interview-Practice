@@ -199,12 +199,10 @@ Feel free to fork this repo, add new queries, or create issue threads if you fin
 
 ---
 
-## 🌐 Connect With Me
+## 📩 Lets Connect
 
-📧 Email: [chinmaykaitade123@gmail.com](mailto:chinmaykaitade123@gmail.com)
-💼 LinkedIn: [https://linkedin.com/in/chinmay-sharad-kaitade](https://linkedin.com/in/chinmay-sharad-kaitade)
+<a href="https://www.linkedin.com/in/chinmay-sharad-kaitade/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Chinmay'sLinkedinHandle" title="LinkedIn"/></a> | <a href="https://www.instagram.com/chinmaykaitade_hunter/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Chinmay'sInstagramHandle" title="Instagram"/></a> | <a href="https://x.com/chinmaydotcom" target="blank"><img align="center" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Chinmay'sXHandle" title="X"/></a>
 
 ---
 
 > _"Practice makes perfect — keep querying until it's second nature!"_ 💪
-
